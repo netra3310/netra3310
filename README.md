@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm a full stack developer.</h1>
-<!-- <p>
-  <a href="https://github.com/netra3310/" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=netra3310&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-  
-  <a href="https://github.com/bcmaster20/bcmaster20" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=netra3310&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
-  </a>
- </p>   -->
+<p>
+I'm Chris Lee from Hong Kong.<br>
+I studied in Math and Computer Science and received my bachelor's degree in 2013.
+As a dedicated developer, I have been working in software development since 2014.<br>
+I am working as a full stack developer and have been worked in many projects including commerce, education, healthcare, construction and finance.<br>
+I have various skills including php, javascript frameworks but my top skill is MERN stack.<br>
+I enjoy overcoming new challenges and always try to learn latest techs.<br>
+</p>
 
 🔧 Technologies & 📖 Languages
 
@@ -79,8 +78,3 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
          alt="vuejs" width="40" height="40"/> </a></p>
-
-
-<!-- ## AWARDS  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=netra3310)](https://github.com/netra3310/netra3310)  -->
