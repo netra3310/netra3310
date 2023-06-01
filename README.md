@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a full stack developer.</h1>
 <p>
-I'm Chris Lee from Hong Kong.<br>
+I'm Chris Morri from Hong Kong.<br>
 I studied in Math and Computer Science and received my bachelor's degree in 2013.
 As a dedicated developer, I have been working in software development since 2014.<br>
 I am working as a full stack developer and have been worked in many projects including commerce, education, healthcare, construction and finance.<br>
