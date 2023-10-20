@@ -21,8 +21,6 @@
 - Passion for creating user-friendly web applications that provide a seamless experience for your customers
 - Constantly learning and exploring new technologies to stay ahead of the curve
 
-➕ I am currently studying data visualization techniques and exploring crypto trading strategies to enhance my skills and stay up-to-date with the latest trends in the industry.
-
 🚀 Let's work together to bring your ideas to life and take your online presence to the next level. Feel free to reach out to me to discuss your project. I'm excited to hear from you! 😊
 
 </p>
